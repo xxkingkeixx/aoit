@@ -159,12 +159,12 @@
         <!-- menu mobile -->
         <div class="navigation-mobile bg-black hidden-item">
             <ul class="navigation-item">
-                <li><a href="index.html">HOME</a></li>
-                <li><a href="about.html">ABOUT</a></li>
-                <li><a href="services.html">SERVICES</a></li>
-                <li><a href="portfolio.html">PORTFOLIO</a></li>
-                <li><a href="blog.html">BLOG</a></li>
-                <li><a href="contact.html">CONTACT</a></li>
+                <li><a href="index.php">HOME</a></li>
+                <li><a href="about.php">ABOUT</a></li>
+                <li><a href="services.php">SERVICES</a></li>
+                <li><a href="portfolio.php">PORTFOLIO</a></li>
+                <li><a href="blog.php">BLOG</a></li>
+                <li><a href="contact.php">CONTACT</a></li>
             </ul>
             <!-- end content tab -->
         </div>
@@ -211,22 +211,22 @@
             <nav class="nav-left">
                 <ul>
                     <li>
-                        <a href="index.html" data-rel="home"><i class="icon-home"></i></a>
+                        <a href="index.php" data-rel="home"><i class="icon-home"></i></a>
                     </li>
                     <li>
-                        <a href="about.html" data-rel="About"><i class="li_user"></i></a>
+                        <a href="about.php" data-rel="About"><i class="li_user"></i></a>
                     </li>
                     <li>
-                        <a href="Services-2.html" data-rel="Services"><i class="li_paperplane"></i></a>
+                        <a href="Services-2.php" data-rel="Services"><i class="li_paperplane"></i></a>
                     </li>
                     <li>
-                        <a href="portfolio.html" data-rel="Portfolio"><i class="li_photo"></i></a>
+                        <a href="portfolio.php" data-rel="Portfolio"><i class="li_photo"></i></a>
                     </li>
                     <li>
-                        <a href="blog.html" data-rel="Blog"><i class="li_pen"></i></a>
+                        <a href="blog.php" data-rel="Blog"><i class="li_pen"></i></a>
                     </li>
                     <li>
-                        <a href="contact.html" data-rel="Contact"><i class="li_location"></i></a>
+                        <a href="contact.php" data-rel="Contact"><i class="li_location"></i></a>
                     </li>
                 </ul>
             </nav>
@@ -271,7 +271,7 @@
                             <div class="absolute position-left position-top around-white">
                                 <h1 class="text-large font-hard"><span class="text-color " >Featured </span> Videos.</h1>
                                 <p class="text-medium font-soft text-spacing-small">Video Name <br> Video Info</p>
-                                <a href="about.html" data-toggle="modal" data-target=".modal-video-play" class="btn-ba5nanas-transparent text-medium-large play-animations inline "> <span> VIEW VIDEO </span> <i class="fa fa-play"></i> </a>
+                                <a href="about.php" data-toggle="modal" data-target=".modal-video-play" class="btn-ba5nanas-transparent text-medium-large play-animations inline "> <span> VIEW VIDEO </span> <i class="fa fa-play"></i> </a>
                             </div>
                         </div>
                     </div>
@@ -289,9 +289,9 @@
                                 <h1 class="text-extra-big font-hard"><span class="text-color " >Gotta lot of work to do guys</span>. </h1>
 
                                 <p class="text-medium-large font-soft text-spacing-small"> </p>
-                                <a href="about.html" class="btn-ba5nanas-transparent text-medium-large font-soft play-animations inline"> <span> -media </span>  <span class="block text-smallest text-left"> /inlet </span> </a>
+                                <a href="about.php" class="btn-ba5nanas-transparent text-medium-large font-soft play-animations inline"> <span> -media </span>  <span class="block text-smallest text-left"> /inlet </span> </a>
                                 &nbsp;
-                                <a href="about.html" class="bg-color text-box text-medium-large hover-bg-black font-soft play-animations inline"> <span> Database Schema </span>  <span class="block text-smallest text-left"> Yes </span> </a>
+                                <a href="about.php" class="bg-color text-box text-medium-large hover-bg-black font-soft play-animations inline"> <span> Database Schema </span>  <span class="block text-smallest text-left"> Yes </span> </a>
                             </div>
                             <div class="DivHelper"></div>
                         </div>
@@ -314,7 +314,7 @@
                                 <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
                                 <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
                             </div>
-                            <a href="single-portfolio.html" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
+                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
 
                         </div>
                     </article>
@@ -326,7 +326,7 @@
                                 <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
                                 <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
                             </div>
-                            <a href="single-portfolio.html" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
+                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
 
                         </div>
                     </article>
@@ -338,7 +338,7 @@
                                 <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
                                 <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
                             </div>
-                            <a href="single-portfolio.html" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
+                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
 
                         </div>
 
@@ -351,7 +351,7 @@
                                 <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
                                 <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
                             </div>
-                            <a href="single-portfolio.html" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
+                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
 
                         </div>
                     </article>
@@ -363,7 +363,7 @@
                                 <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
                                 <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
                             </div>
-                            <a href="single-portfolio.html" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
+                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
 
                         </div>
                     </article>
@@ -375,7 +375,7 @@
                                 <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
                                 <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
                             </div>
-                            <a href="single-portfolio.html" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
+                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
 
                         </div>
                     </article>
@@ -387,7 +387,7 @@
                                 <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
                                 <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
                             </div>
-                            <a href="single-portfolio.html" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
+                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
 
                         </div>
                     </article>
@@ -399,7 +399,7 @@
                                 <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
                                 <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
                             </div>
-                            <a href="single-portfolio.html" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
+                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
 
                         </div>
                     </article>
@@ -411,7 +411,7 @@
                                 <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
                                 <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
                             </div>
-                            <a href="single-portfolio.html" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
+                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
 
                         </div>
                     </article>
@@ -423,7 +423,7 @@
                                 <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
                                 <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
                             </div>
-                            <a href="single-portfolio.html" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
+                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
                         </div>
                     </article>
 
@@ -434,7 +434,7 @@
                                 <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
                                 <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
                             </div>
-                            <a href="single-portfolio.html" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
+                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
 
                         </div>
                     </article>
@@ -446,7 +446,7 @@
                                 <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
                                 <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
                             </div>
-                            <a href="single-portfolio.html" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
+                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
 
                         </div>
                     </article>
