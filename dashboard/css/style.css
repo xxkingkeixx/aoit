@@ -9,9 +9,6 @@
 @import "jpreloader.css";
 @import "ex-select-option.css";
 
-/*============================*/
-/* Set Default Tags */
-/*============================*/
 
 body {
 }
@@ -542,7 +539,6 @@ Modal
     background: rgba(0,0,0,.5);  
 
 }
-
 .modal-header .glyphicon-remove {
     text-decoration: none;
     float:right;

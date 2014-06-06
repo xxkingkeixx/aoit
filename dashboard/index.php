@@ -3,9 +3,9 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>PORTFOLIO DARKKK</title>
+        <title>Portfolio</title>
 
-        <!-- Bootstrap -->
+    
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="css/linecons.css" rel="stylesheet">
         <link href="css/custom-fonts.css" rel="stylesheet">
@@ -13,8 +13,7 @@
         <link href="css/Colors/default.css" rel="stylesheet">
         <link href="css/dark.css" rel="stylesheet">
         <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
-        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        
         <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
           <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
@@ -56,7 +55,7 @@
                     </header>
                     <section class='content'>
                         <section id="youtube_video" class='video-content'>
-                            <iframe style="width:100%; height:555px; border:0; margin-bottom: -5px;" src="http://www.youtube.com/embed/8o6y6VpK4DI?enablejsapi=1"></iframe>
+                            <iframe style="width:100%; height:555px; border:0; margin-bottom: -5px;" src="http://www.youtube.com/embed/8mKZYxjs4Ss?enablejsapi=1"></iframe>
                         </section>
                     </section>
                 </div>
@@ -196,17 +195,7 @@
             </div>
 
             <nav class="nav-top">
-                <ul class="social hidden-xs">
-                    <li>
-                        <a href="#" class="facebook"><i class="icon-facebook"></i></a>
-                    </li>
-                    <li>
-                        <a href="#" class="twitter"><i class="icon-twitter"></i></a>
-                    </li>
-                    <li>
-                        <a href="#" class="google-plus"><i class="icon-google"></i></a>
-                    </li>
-                </ul>
+               
                 <ul class="nav-user">
                     <li class="visible-xs">
                         <a href="#" class="menu-open"><i class="fa fa-bars"></i> &nbsp; <span class="hidden-xs"> Friends </span></a>
@@ -263,8 +252,8 @@
                         <div class="DivParent-background-full text-center around-white front relative">
                             <div class="DivWhichNeedToBeVerticallyAligned">
                                 <h1 class="text-extra-big font-hard">Micah's <span class="text-color">Portfolio</span>.</h1>
-                                <p class="text-medium-large font-soft text-spacing-small">I will give you a complete account of the system, and expound!</p>
-                                <a href="about.html" class="btn-ba5nanas-transparent text-medium-large play-animations inline "> <span> Learn More </span>  <span class="block text-smallest text-left"> ABOUT US </span> </a>
+                                <p class="text-medium-large font-soft text-spacing-small">Yeah , it's pretty great.</p>
+                                
                             </div>
                             <div class="DivHelper"></div>
                         </div>
@@ -272,30 +261,16 @@
                     </article>
                 </div>
             </section>
-            <section class="body section-color text-right">
-
-                <div class="inline left text-left">
-                    <span class="text-white text-medium-large block">If You Interested My Template Please Buy It.</span>
-                    <span class="text-white text-smaller block">Now you’re downloading! Thank you.</span>
-                </div>
-                <div class="clearfix visible-xs box-spacing-small"></div>
-                <a href="about.html" class="btn-ba5nanas-transparent text-medium-large hover-bg-black font-soft play-animations inline"> <span> Purchase <i class="glyphicon glyphicon-shopping-cart"></i> </span> </a>
-            </section>
+           
             <section id="features" class="body full">
                 <div class="window-fullscreen">
                     <div class="owlCarousel">
-                        <div class="item darkCyan background-full relative" data-background='images/mock1.jpg'>
-                            <div class="absolute position-top position-right around-white">
-                                    <h1 class="text-large font-hard"><span class="text-color " >MY </span> BIG THINK IDEA.</h1>
-                                    <p class="text-medium font-soft text-spacing-small">Lorem Ipsum is that it has a more-or-less normal distribution of letters! <br>Reference site about Lorem Ipsum, giving information on its origins,<br> as well as a random Lipsum generator.</p>
-                                    <a href="about.html" class="btn-ba5nanas-transparent text-medium-large play-animations inline "> <span> Learn More </span> </a>
-                          
-                            </div>
+                        
                         </div>
                         <div class="item darkCyan background-full relative" data-background='images/mock4.jpg'>
                             <div class="absolute position-left position-top around-white">
-                                <h1 class="text-large font-hard"><span class="text-color " >MY </span> COMPUTER.</h1>
-                                <p class="text-medium font-soft text-spacing-small">Lorem Ipsum is that it has a more-or-less normal distribution of letters! <br>Reference site about Lorem Ipsum, giving information on its origins,<br> as well as a random Lipsum generator.</p>
+                                <h1 class="text-large font-hard"><span class="text-color " >Featured </span> Videos.</h1>
+                                <p class="text-medium font-soft text-spacing-small">Video Name <br> Video Info</p>
                                 <a href="about.html" data-toggle="modal" data-target=".modal-video-play" class="btn-ba5nanas-transparent text-medium-large play-animations inline "> <span> VIEW VIDEO </span> <i class="fa fa-play"></i> </a>
                             </div>
                         </div>
@@ -322,78 +297,12 @@
                         </div>
                     </article>
                     <div class='control-youtube absolute top '>
-                        <div id="playerYoutube" class='playerYoutube-bg height-full' data-video_id='kn-1D5z3-Cs' data-video_quality='default'></div> 
+                        <div id="playerYoutube" class='playerYoutube-bg height-full' data-video_id='N6v5cEdxxKU' data-video_quality='default'></div> 
                     </div>
                 </div>
             </section>
 
-            <section id="BLOG" class="body full">
-                <div class="background-full relative" data-background='images/mock2.jpg'>
-                    <div class='bg-wrapper'></div>
-                    <article class="body left-right">
-                        <div class="DivParent-background-full text-center around-white front relative">
-                            <div class="DivWhichNeedToBeVerticallyAligned">
-                                <h1 class="text-extra-big font-hard"><span class="text-color " >NEXT </span> PROJECTS COMING SOON.</h1>
-                                <div class="box-spacing"></div>
-
-
-                                <div class="counter-time">
-                                    <!-- countdown -->
-                                    <div class="countdown-item days">
-                                        <div class="label text-medium-large">Days</div>
-                                        <div class="label-number">
-                                            <div class="number current">41</div>
-                                            <div class="number next">43</div>
-                                            <div class="number prev">42</div>
-                                        </div>
-                                    </div>
-                                    <!-- countdown -->
-                                    <div class="countdown-item hours">
-                                        <div class="label text-medium-large">hours</div>
-                                        <div class="label-number">
-                                            <div class="number current">41</div>
-                                            <div class="number next">43</div>
-                                            <div class="number prev">42</div>
-                                        </div>
-                                    </div>
-                                    <!-- countdown -->
-                                    <div class="countdown-item minutes">
-                                        <div class="label text-medium-large">minutes</div>
-                                        <div class="label-number">
-                                            <div class="number current">41</div>
-                                            <div class="number next">43</div>
-                                            <div class="number prev">42</div>
-                                        </div>
-                                    </div>
-                                    <!-- countdown -->
-                                    <div class="countdown-item seconds">
-                                        <div class="label text-medium-large">seconds</div>
-                                        <div class="label-number">
-                                            <div class="number current">41</div>
-                                            <div class="number next">43</div>
-                                            <div class="number prev">42</div>
-                                        </div>
-                                    </div>
-                                    <!-- countdown -->
-                                </div><!-- counter -->
-
-
-                                <div class="box-spacing"></div>
-                                <div class="clearfix"></div>
-                                <div id="newsletter" class="form-wrap">
-                                    <form action="#" method="post" id="newsletter-form" class="inline relative" novalidate="novalidate">
-                                        <p class="form-field inline">
-                                            <input type="text" name="newsletter_email" id="newsletter_email" value="" placeholder="Your email">
-                                        </p>
-                                        <p class="form-submit">
-                                            <input type="submit" name="newsletter_submit" id="newsletter_submit" class="bg-color" value="Subscribe">
-                                        </p>
-                                    </form>
-                                </div>
-                            </div>
-                            <div class="DivHelper"></div>
-                        </div>
-                    </article>
+           
                     <div class="clearfix"></div>
                 </div>
 

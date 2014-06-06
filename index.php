@@ -16,16 +16,19 @@ VALUES ('$a', '$b', '$c')");
 
  ?>
 
+
+ 
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>PORTFOLIOLIO</title>
+        <title>Portfolio</title>
         <link href="asset/jquery.minicolors.css" rel="stylesheet">
-        <!-- Bootstrap 3 -->
         <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
+        <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
         <style>
             body {
-                background: url("asset/mock1.jpg");
+                background: url("asset/clouds.jpg");
             }
 
             .form-control {
@@ -62,10 +65,11 @@ VALUES ('$a', '$b', '$c')");
                 font-weight: 900;
                 text-align: center;
                 margin-bottom: 60px;
+                font-family: 'Ubuntu', sans-serif;
             }
 
             .color {
-                color:#F2660D;
+                color:#00000;
                 font-size: 80px;
                 display: block;
                 margin-bottom: 20px;
@@ -89,15 +93,12 @@ VALUES ('$a', '$b', '$c')");
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
-                    <h1><span class="color">MICAH</span> PORTFOLILILILOLOLOLOLOLOLOLOLLOL</h1>
+                    <h1><span class="color">Suko.Tv</span></h1>
                 </div>
             </div>
-            <div class="row">
+            <div class="center">
                 <div class="col-lg-6 col-md-6 col-sm-12 text-center">
-                    <a href='light/index.html'><img src="asset/light.png" alt="light"></a>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 text-center">
-                    <a href='dark/index.html'><img src="asset/dark.png" alt="dark"></a>
+                    <a href='dashboard/index.php'><img src="asset/dark.png" alt="dark"></a>
                 </div>
             </div>
         
@@ -133,13 +134,7 @@ VALUES ('$a', '$b', '$c')");
                             style_css.cssmin = tree.toCSS({compress: true});
                         });
 
-                        //console.log(lessFiles.core);
-                        zip.file("default.html", style_css.css);
-                        zip.file("default.min.html", style_css.cssmin);
-                        saveAs(zip.generate({type: 'blob'}), 'LeoColorStyle.html');
-                        return false;
-                    });
-
+                      
                     $(".minicolor").minicolors({
                         control: $(this).attr('data-control') || 'hue',
                         defaultValue: $(this).attr('data-defaultValue') || '',
