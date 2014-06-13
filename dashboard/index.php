@@ -55,7 +55,7 @@
                     </header>
                     <section class='content'>
                         <section id="youtube_video" class='video-content'>
-                            <iframe style="width:100%; height:555px; border:0; margin-bottom: -5px;" src="http://www.youtube.com/embed/8mKZYxjs4Ss?enablejsapi=1"></iframe>
+                            <iframe style="width:100%; height:555px; border:0; margin-bottom: -5px;" src="http://www.youtube.com/embed/rs12mxdvl7s?enablejsapi=1"></iframe>
                         </section>
                     </section>
                 </div>
@@ -83,7 +83,7 @@
                                 <img src="images/Pictures/p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
-                                <p>THE SIT UP.</p>
+                                <p>Featured</p>
                                 <small class="text-gray">March 6th 2013</small>
                             </div>
                         </div>
@@ -92,7 +92,7 @@
                                 <img src="images/Pictures/thumb-p2.jpg" alt="image">
                             </div>
                             <div class="label text-left">
-                                <p>RAIN OF THINK.</p>
+                                <p>Featured</p>
                                 <small class="text-gray">March 6th 2013</small>
                             </div>
                         </div>
@@ -101,7 +101,7 @@
                                 <img src="images/Pictures/p3.jpg" alt="image">
                             </div>
                             <div class="label text-left">
-                                <p>LEO AND CAT.</p>
+                                <p>Featured.</p>
                                 <small class="text-gray">March 6th 2013</small>
                             </div>
                         </div>
@@ -110,7 +110,7 @@
                                 <img src="images/Pictures/thumb-p4.jpg" alt="image">
                             </div>
                             <div class="label text-left">
-                                <p>BROVEN.</p>
+                                <p>Featured</p>
                                 <small class="text-gray">March 6th 2013</small>
                             </div>
                         </div>
@@ -119,7 +119,7 @@
                                 <img src="images/Pictures/thumb-p5.jpg" alt="image">
                             </div>
                             <div class="label text-left">
-                                <p>THE SIT UP.</p>
+                                <p>Featured</p>
                                 <small class="text-gray">March 6th 2013</small>
                             </div>
                         </div>
@@ -128,7 +128,7 @@
                                 <img src="images/Pictures/thumb-p6.jpg" alt="image">
                             </div>
                             <div class="label text-left">
-                                <p>THE SIT UP.</p>
+                                <p>Featured</p>
                                 <small class="text-gray">March 6th 2013</small>
                             </div>
                         </div>
@@ -149,8 +149,8 @@
                     </div>
                     <hr>
                     <div class="widget-content widget-tags">
-                        <a href="#" class="hover-bg-color hover-text-white">Amazing</a> / <a href="#" class="hover-bg-color hover-text-white">Envato</a> / <a href="#" class="hover-bg-color hover-text-white">Themes</a> / <a href="#" class="hover-bg-color hover-text-white">Clean</a> / <a href="#" class="hover-bg-color hover-text-white">Responsive</a> / <a href="#" class="hover-bg-color hover-text-white">Multipurpose</a> / 
-                        <a href="#" class="hover-bg-color hover-text-white">Creative</a> / <a href="#" class="hover-bg-color hover-text-white">Twitter</a> / <a href="#" class="hover-bg-color hover-text-white">Wordpress</a>
+                        <a href="#" class="hover-bg-color hover-text-white">Amazing</a> / <a href="#" class="hover-bg-color hover-text-white">Lul</a> / <a href="#" class="hover-bg-color hover-text-white">Great</a> / <a href="#" class="hover-bg-color hover-text-white">Clean</a> / <a href="#" class="hover-bg-color hover-text-white">So video</a> / <a href="#" class="hover-bg-color hover-text-white">So Social</a> / 
+                        <a href="#" class="hover-bg-color hover-text-white">So hip</a> / <a href="#" class="hover-bg-color hover-text-white">So design</a> / <a href="#" class="hover-bg-color hover-text-white">Rad</a>
                     </div>
                 </article>
             </section>
@@ -160,11 +160,11 @@
         <div class="navigation-mobile bg-black hidden-item">
             <ul class="navigation-item">
                 <li><a href="index.php">HOME</a></li>
-                <li><a href="about.php">ABOUT</a></li>
-                <li><a href="services.php">SERVICES</a></li>
-                <li><a href="portfolio.php">PORTFOLIO</a></li>
-                <li><a href="blog.php">BLOG</a></li>
-                <li><a href="contact.php">CONTACT</a></li>
+                <li><a href="">ABOUT</a></li>
+                <li><a href="">SERVICES</a></li>
+                <li><a href="">PORTFOLIO</a></li>
+                <li><a href="">BLOG</a></li>
+                <li><a href="">CONTACT</a></li>
             </ul>
             <!-- end content tab -->
         </div>
@@ -211,22 +211,22 @@
             <nav class="nav-left">
                 <ul>
                     <li>
-                        <a href="index.php" data-rel="home"><i class="icon-home"></i></a>
+                        <a href="index.php" data-rel="Home"><i class="icon-home"></i></a>
                     </li>
                     <li>
-                        <a href="about.php" data-rel="About"><i class="li_user"></i></a>
+                        <a href="" data-rel="Settings"><i class="li_user"></i></a>
                     </li>
                     <li>
-                        <a href="Services-2.php" data-rel="Services"><i class="li_paperplane"></i></a>
+                        <a href="" data-rel="Discover"><i class="li_paperplane"></i></a>
                     </li>
                     <li>
-                        <a href="portfolio.php" data-rel="Portfolio"><i class="li_photo"></i></a>
+                        <a href="" data-rel="Chat"><i class="li_bubble"></i></a>
                     </li>
                     <li>
-                        <a href="blog.php" data-rel="Blog"><i class="li_pen"></i></a>
+                        <a href="" data-rel="Upload"><i class="li_stack"></i></a>
                     </li>
                     <li>
-                        <a href="contact.php" data-rel="Contact"><i class="li_location"></i></a>
+                        <a href="" data-rel="Trending"><i class="li_video"></i></a>
                     </li>
                 </ul>
             </nav>
@@ -246,7 +246,7 @@
             </nav>
 
             <section id="first" class="body full">
-                <div id="pallax-first" class="parallax background-full" data-image='images/home.jpg' >
+                <div id="pallax-first" class="parallax background-full" data-image='images/bg.jpg' >
                     <div class="bg-wrapper"></div>
                     <article class="body left-right">
                         <div class="DivParent-background-full text-center around-white front relative">
@@ -269,9 +269,9 @@
                         </div>
                         <div class="item darkCyan background-full relative" data-background='images/mock4.jpg'>
                             <div class="absolute position-left position-top around-white">
-                                <h1 class="text-large font-hard"><span class="text-color " >Featured </span> Videos.</h1>
-                                <p class="text-medium font-soft text-spacing-small">Video Name <br> Video Info</p>
-                                <a href="about.php" data-toggle="modal" data-target=".modal-video-play" class="btn-ba5nanas-transparent text-medium-large play-animations inline "> <span> VIEW VIDEO </span> <i class="fa fa-play"></i> </a>
+                                <h1 class="text-large font-hard"><span class="text-color " >Video</span> Editor.</h1>
+                                <p class="text-medium font-soft text-spacing-small">AMV <br> Reality Glitch</p>
+                                <a href="" data-toggle="modal" data-target=".modal-video-play" class="btn-ba5nanas-transparent text-medium-large play-animations inline "> <span> VIEW VIDEO </span> <i class="fa fa-play"></i> </a>
                             </div>
                         </div>
                     </div>
@@ -286,18 +286,18 @@
                     <article class="body left-right">
                         <div class="DivParent-background-full text-center around-white front relative">
                             <div class="DivWhichNeedToBeVerticallyAligned">
-                                <h1 class="text-extra-big font-hard"><span class="text-color " >Gotta lot of work to do guys</span>. </h1>
+                                <h1 class="text-extra-big font-hard"><span class="text-color " >Web Developer</span>. </h1>
 
                                 <p class="text-medium-large font-soft text-spacing-small"> </p>
-                                <a href="about.php" class="btn-ba5nanas-transparent text-medium-large font-soft play-animations inline"> <span> -media </span>  <span class="block text-smallest text-left"> /inlet </span> </a>
+                                <a href="" class="btn-ba5nanas-transparent text-medium-large font-soft play-animations inline"> <span> Backend </span>  <span class="block text-smallest text-left"> Programmer </span> </a>
                                 &nbsp;
-                                <a href="about.php" class="bg-color text-box text-medium-large hover-bg-black font-soft play-animations inline"> <span> Database Schema </span>  <span class="block text-smallest text-left"> Yes </span> </a>
+                                <a href="" class="bg-color text-box text-medium-large hover-bg-black font-soft play-animations inline"> <span> Frontend </span>  <span class="block text-smallest text-left"> Developer </span> </a>
                             </div>
                             <div class="DivHelper"></div>
                         </div>
                     </article>
                     <div class='control-youtube absolute top '>
-                        <div id="playerYoutube" class='playerYoutube-bg height-full' data-video_id='N6v5cEdxxKU' data-video_quality='default'></div> 
+                        <div id="playerYoutube" class='playerYoutube-bg height-full' data-video_id='Iq8Goqp4Mfw' data-video_quality='default'></div> 
                     </div>
                 </div>
             </section>
@@ -308,149 +308,103 @@
 
                 <article class="portfolio_container_isotope full around-white">
                     <article class="bg-black item-isotope design services">
-                        <img src="images/Pictures/portfolio-1.jpg" alt="image">
+                       <object width="400" height="400" data="vine.swf"></object>
                         <div class="relative text-box front bottom ">
                             <div class="portfolio-description">
-                                <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
-                                <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
+                                <h1 class="text-medium-large font-hard"><span class="text-color " >Vine </span> Flash Animation</h1>
+                               
                             </div>
-                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
+                            
 
                         </div>
                     </article>
 
                     <article class="bg-black item-isotope design photography services">
-                        <img src="images/Pictures/portfolio-2.jpg" alt="image">
+                        <object width="400" height="400" data="shape.swf"></object>
                         <div class="relative text-box front bottom ">
                             <div class="portfolio-description">
-                                <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
-                                <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
+                                <h1 class="text-medium-large font-hard"><span class="text-color " >Shape Tween </span> Flash Animation.</h1>
+                               
                             </div>
-                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
+                            
 
                         </div>
                     </article>
 
                     <article class="bg-black item-isotope design photography">
-                        <img src="images/Pictures/portfolio-3.jpg" alt="image">
+                         <object width="400" height="400" data="motiontween.swf"></object>
                         <div class="relative text-box front bottom ">
                             <div class="portfolio-description">
-                                <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
-                                <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
+                                <h1 class="text-medium-large font-hard"><span class="text-color " >Motion Tween </span> Flash Animation</h1>
+                              
                             </div>
-                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
+                            
 
                         </div>
 
                     </article>
 
                     <article class="bg-black item-isotope design services">
-                        <img src="images/Pictures/portfolio-6.jpg" alt="image">
+                        <object width="400" height="400" data="tween2.swf"></object>
                         <div class="relative text-box front bottom ">
                             <div class="portfolio-description">
-                                <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
-                                <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
+                                <h1 class="text-medium-large font-hard"><span class="text-color " >Special Motion </span> Flash Animation</h1>
+                              
                             </div>
-                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
+                            
 
                         </div>
                     </article>
 
                     <article class="bg-black item-isotope technology photography">
-                        <img src="images/Pictures/portfolio-4.jpg" alt="image">
+                        <iframe width="400" height="400" src="//www.youtube.com/embed/EoubheYhMKc" frameborder="0" allowfullscreen></iframe>
                         <div class="relative text-box front bottom ">
                             <div class="portfolio-description">
-                                <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
-                                <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
+                                <h1 class="text-medium-large font-hard"><span class="text-color " >Video as Guest "Madao" </span>Random Road Trip</h1>
+                               
                             </div>
-                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
+                           
 
                         </div>
                     </article>
 
                     <article class="bg-black item-isotope technology event">
-                        <img src="images/Pictures/portfolio-5.jpg" alt="image">
+                        <iframe width="400" height="400" src="//www.youtube.com/embed/X4q18ecBFxE" frameborder="0" allowfullscreen></iframe>
                         <div class="relative text-box front bottom ">
                             <div class="portfolio-description">
-                                <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
-                                <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
+                                <h1 class="text-medium-large font-hard"><span class="text-color " >Video </span> Data Overload</h1>
+                               
                             </div>
-                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
+                            
 
                         </div>
                     </article>
 
                     <article class="bg-black item-isotope photography event">
-                        <img src="images/Pictures/portfolio-10.jpg" alt="image">
+                        <iframe width="400" height="400" src="//www.youtube.com/embed/b55720FLluU" frameborder="0" allowfullscreen></iframe>
                         <div class="relative text-box front bottom ">
                             <div class="portfolio-description">
-                                <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
-                                <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
+                                <h1 class="text-medium-large font-hard"><span class="text-color " >Video </span> Encode +</h1>
+                             
                             </div>
-                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
+                            
 
                         </div>
                     </article>
 
                     <article class="bg-black item-isotope photography services">
-                        <img src="images/Pictures/portfolio-11.jpg" alt="image">
+                        <iframe width="400" height="400" src="//www.youtube.com/embed/JhqdXQ7HmrE" frameborder="0" allowfullscreen></iframe>
                         <div class="relative text-box front bottom ">
                             <div class="portfolio-description">
-                                <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
-                                <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
+                                <h1 class="text-medium-large font-hard"><span class="text-color " >Video </span> Solace - Beta</h1>
+                               
                             </div>
-                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
+                            
 
                         </div>
                     </article>
 
-                    <article class="bg-black item-isotope design event">
-                        <img src="images/Pictures/portfolio-12.jpg" alt="image">
-                        <div class="relative text-box front bottom ">
-                            <div class="portfolio-description">
-                                <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
-                                <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
-                            </div>
-                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
-
-                        </div>
-                    </article>
-
-                    <article class="bg-black item-isotope design event">
-                        <img src="images/Pictures/portfolio-13.jpg" alt="image">
-                        <div class="relative text-box front bottom ">
-                            <div class="portfolio-description">
-                                <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
-                                <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
-                            </div>
-                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
-                        </div>
-                    </article>
-
-                    <article class="bg-black item-isotope technology event">
-                        <img src="images/Pictures/portfolio-14.jpg" alt="image">
-                        <div class="relative text-box front bottom ">
-                            <div class="portfolio-description">
-                                <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
-                                <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
-                            </div>
-                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
-
-                        </div>
-                    </article>
-
-                    <article class="bg-black item-isotope technology services">
-                        <img src="images/Pictures/portfolio-15.jpg" alt="image">
-                        <div class="relative text-box front bottom ">
-                            <div class="portfolio-description">
-                                <h1 class="text-medium-large font-hard"><span class="text-color " >MY </span> PROJECTS ONE.</h1>
-                                <span class="block text-smaller text-left"> Reference site about Lorem Ipsum </span>
-                            </div>
-                            <a href="single-portfolio.php" class="portfolio-link bg-color hover-bg-light-black height-full text-spacing-small absolute right fa fa-arrow-up text-white hover-text-white text-center text-large play-animations"></a>
-
-                        </div>
-                    </article>
-
+                    
 
                 </article>
             </section>
@@ -464,65 +418,63 @@
 
         </section>
 
-        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        
         <script src="js/jquery.min.js"></script>
         <script src="js/zepto.min.js"></script>
         <script src="js/SmoothScroll.js"></script>
         <script src="js/modernizr.custom.js"></script>
-        <!-- parallax -->
+       
         <script src="js/jquery.localscroll-1.2.7-min.js"></script>
         <script src="js/jquery.parallax-1.1.3.js"></script>
-        <!-- google map -->
+       
         <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyASm3CwaK9qtcZEWYa-iQwHaGi3gcosAJc&amp;sensor=false"></script>
 
-        <!-- Include all compiled plugins (below), or include individual files as needed -->
-
-        <!-- boostrap -->
+       
         <script src="js/bootstrap.min.js"></script>
 
-        <!-- nicescroll -->
+      
         <script src="js/jquery.nicescroll.min.js"></script>
 
-        <!-- isotope -->
+
         <script src="js/jquery.isotope.min.js"></script>
 
-        <!-- Flexslider -->
+        
         <script src="js/jquery.easing.js"></script>
         <script src="js/jquery.flexslider-min.js"></script>
 
-        <!-- Youtube -->
+        
         <script src="js/youtube.js"></script>
 
-        <!-- Fittext -->
+        
         <script src="js/jquery.fittext.js"></script>
 
-        <!-- Owl -->
+        
         <script src="js/owl.carousel.min.js"></script>
 
-        <!-- Slider -->
+        
         <script src="js/classie.js"></script>
         <script src="js/tiltSlider.js"></script>
 
-        <!-- navigation -->
+        
         <script src="js/jquery.scrollTo.js"></script>
         <script src="js/jquery.nav.js"></script>
 
-        <!-- dots -->
+        
         <script src="js/dots.js"></script>
 
-        <!-- dots -->
+       
         <script src="js/jquery.dropdown.js"></script>
 
-        <!-- jpreloader -->
+        
         <script src="js/jpreloader.min.js"></script>
         
-        <!-- placeholder ie 9 -->
+       
         <script src="js/jquery.placeholder.js"></script>
 
-        <!-- Count Down -->
+        
         <script src="js/jquery.countdown.min.js"></script>
 
-        <!-- custom js -->
+        
         <script src="js/custom.js"></script>
     </body>
 </html>

@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Leo</title>
+        <title>Contact</title>
 
         <!-- Bootstrap -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -177,17 +177,7 @@
             </div>
 
             <nav class="nav-top">
-                <ul class="social hidden-xs">
-                    <li>
-                        <a href="#" class="facebook"><i class="icon-facebook"></i></a>
-                    </li>
-                    <li>
-                        <a href="#" class="twitter"><i class="icon-twitter"></i></a>
-                    </li>
-                    <li>
-                        <a href="#" class="google-plus"><i class="icon-google"></i></a>
-                    </li>
-                </ul>
+                
                 <ul class="nav-user">
                     <li class="visible-xs">
                         <a href="#" class="menu-open"><i class="fa fa-bars"></i> &nbsp; <span class="hidden-xs"> Widgets </span></a>
@@ -227,10 +217,10 @@
             <section class='section-black around-white'>
                 <div class="body">
                     <header>
-                        <h1 class='font-hard text-extra-big'>GET IN <span class='text-color'>TOUCH</span></h1>
+                        <h1 class='font-hard text-extra-big'>AYO <span class='text-color'>.</span></h1>
 
                         <p class='text-medium-large text-spacing font-soft'>
-                            There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. 
+                            HMU bruh
                         </p>
 
                     </header>
@@ -249,9 +239,9 @@
                                 <h3 class="text-left left text-medium font-hard text-title">Location Address</h3>
                                 <div class="clearfix"></div>
                                 <address>
-                                    Envato Melbourne <br>
-                                    Little Lonsdale St <br>
-                                    Melbourne
+                                    PVILLE <br>
+                                    In the hood <br>
+                                    Brah
                                 </address>
                             </div>
                             <hr class="visible-xs">
@@ -265,9 +255,9 @@
                                 <h3 class="text-left left text-medium font-hard text-title">My Phone</h3>
                                 <div class="clearfix"></div>
                                 <p>
-                                    Freephone: +1 100 123 6580 <br>
-                                    Telephone: +1 200 123 6035 <br>
-                                    FAX: +1 300 123 9898 
+                                    Freephone: +1 100 100 hunnit <br>
+                                    Telephone: +1 200 100 hunnit <br>
+                                    FAX: +1 100 100 hunnit 
                                 </p>
                             </div>
                             <hr class="visible-xs">
@@ -281,7 +271,7 @@
                                 <h3 class="text-left left text-medium font-hard text-title">Email Address</h3>
                                 <div class="clearfix"></div>
                                 <p>
-                                    mail@owltemplates.com
+                                    realNig@gmail
                                 </p>
                             </div>
                         </div>
@@ -318,7 +308,7 @@
 
             <section id="footer" class="section-black front-heigh relative">
                 <div class="around-white body small ">
-                    <p class="text-medium">Copyright &COPY; 2001 - 2014 Ba5nanas Inc. All Rights Reserved</p>
+                    <p class="text-medium">Copyright © Suko.Tv All Rights Reserved</p>
                 </div>
             </section>
         </section>
