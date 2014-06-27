@@ -1,4 +1,4 @@
-aoit
+Suko
 ====
 
-Social Network PROJ
+Social Network
