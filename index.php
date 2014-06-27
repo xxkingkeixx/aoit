@@ -16,6 +16,7 @@ VALUES ('$a', '$b', '$c')");
 
  ?>
 
+//sql tut end
 
  
 

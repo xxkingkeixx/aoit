@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Leo</title>
+        <title>Suko</title>
 
         <!-- Bootstrap -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -22,9 +22,9 @@
     </head>
     <body>
         
-        <div class="widget-sidebar hidden-item">
+<div class="widget-sidebar hidden-item">
             <!-- widget Tabs -->
-            <div class="widget section-black around-white">
+            <div class="section-black widget around-white">
                 <ul class="nav nav-tabs">
                     <li><a href="#home" data-toggle="tab" class="text-color">Popular</a></li>
                     <li class="active"><a href="#profile" data-toggle="tab" class="text-color">New</a></li>
@@ -43,34 +43,34 @@
                                 <img src="images/Pictures/p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
-                                <p>THE SIT UP.</p>
+                                <p>Featured</p>
                                 <small class="text-gray">March 6th 2013</small>
                             </div>
                         </div>
                         <div class="row thumbnails hover-bg-color hover-around-white">
                             <div class="images">
-                                <img src="images/Pictures/thumb-p2.jpg" alt="image">
+                                <img src="images/Pictures/thumb-p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
-                                <p>RAIN OF THINK.</p>
+                                <p>Featured</p>
                                 <small class="text-gray">March 6th 2013</small>
                             </div>
                         </div>
                         <div class="row thumbnails hover-bg-color hover-around-white">
                             <div class="images">
-                                <img src="images/Pictures/p3.jpg" alt="image">
+                                <img src="images/Pictures/p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
-                                <p>LEO AND CAT.</p>
+                                <p>Featured.</p>
                                 <small class="text-gray">March 6th 2013</small>
                             </div>
                         </div>
                         <div class="row thumbnails hover-bg-color hover-around-white">
                             <div class="images">
-                                <img src="images/Pictures/thumb-p4.jpg" alt="image">
+                                <img src="images/Pictures/thumb-p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
-                                <p>BROVEN.</p>
+                                <p>Featured</p>
                                 <small class="text-gray">March 6th 2013</small>
                             </div>
                         </div>
@@ -79,7 +79,7 @@
                                 <img src="images/Pictures/thumb-p5.jpg" alt="image">
                             </div>
                             <div class="label text-left">
-                                <p>THE SIT UP.</p>
+                                <p>Featured</p>
                                 <small class="text-gray">March 6th 2013</small>
                             </div>
                         </div>
@@ -88,7 +88,7 @@
                                 <img src="images/Pictures/thumb-p6.jpg" alt="image">
                             </div>
                             <div class="label text-left">
-                                <p>THE SIT UP.</p>
+                                <p>Featured</p>
                                 <small class="text-gray">March 6th 2013</small>
                             </div>
                         </div>
@@ -109,14 +109,14 @@
                     </div>
                     <hr>
                     <div class="widget-content widget-tags">
-                        <a href="#" class="hover-bg-color hover-text-white">Amazing</a> / <a href="#" class="hover-bg-color hover-text-white">Envato</a> / <a href="#" class="hover-bg-color hover-text-white">Themes</a> / <a href="#" class="hover-bg-color hover-text-white">Clean</a> / <a href="#" class="hover-bg-color hover-text-white">Responsive</a> / <a href="#" class="hover-bg-color hover-text-white">Multipurpose</a> / 
-                        <a href="#" class="hover-bg-color hover-text-white">Creative</a> / <a href="#" class="hover-bg-color hover-text-white">Twitter</a> / <a href="#" class="hover-bg-color hover-text-white">Wordpress</a>
+                        <a href="#" class="hover-bg-color hover-text-white">Amazing</a> / <a href="#" class="hover-bg-color hover-text-white">Lul</a> / <a href="#" class="hover-bg-color hover-text-white">Great</a> / <a href="#" class="hover-bg-color hover-text-white">Clean</a> / <a href="#" class="hover-bg-color hover-text-white">So video</a> / <a href="#" class="hover-bg-color hover-text-white">So Social</a> / 
+                        <a href="#" class="hover-bg-color hover-text-white">So hip</a> / <a href="#" class="hover-bg-color hover-text-white">So design</a> / <a href="#" class="hover-bg-color hover-text-white">Rad</a>
                     </div>
                 </article>
             </section>
         </div>
 
-        <!-- menu mobile -->
+                 <!-- menu mobile -->
         <div class="navigation-mobile bg-black around-white hidden-item">
             <ul class="navigation-item">
                 <li><a href="index.html">HOME</a></li>
@@ -142,7 +142,7 @@
                     <section class='content'>
                         <input type='text' class='form-control' placeholder="&#xe009; &nbsp; : &nbsp; KEYWORDS">
                         <hr>
-                        <a href='#' class='btn-ba5nanas-modal' data-prefix='&#xe009;'>SEARCH</a>
+                        <a href='#' class='btn-Suko-modal' data-prefix='&#xe009;'>SEARCH</a>
                     </section>
                 </div>
             </div>
@@ -155,63 +155,53 @@
             </div>
 
             <nav class="nav-top">
-                <ul class="social hidden-xs">
-                    <li>
-                        <a href="#" class="facebook"><i class="icon-facebook"></i></a>
-                    </li>
-                    <li>
-                        <a href="#" class="twitter"><i class="icon-twitter"></i></a>
-                    </li>
-                    <li>
-                        <a href="#" class="google-plus"><i class="icon-google"></i></a>
-                    </li>
-                </ul>
+                
                 <ul class="nav-user">
                     <li class="visible-xs">
-                        <a href="#" class="menu-open"><i class="fa fa-bars"></i> &nbsp; <span class="hidden-xs"> Widgets </span></a>
+                        <a href="#" class="menu-open"><i class="fa fa-bars"></i> &nbsp; <span class="hidden-xs"> SOCIAL </span></a>
                     </li>
                     <li>
-                        <a href="#" class="widget-open"><i class="glyphicon glyphicon-list-alt"></i> &nbsp; <span class="hidden-xs"> Widgets </span></a>
+                        <a href="#" class="widget-open"><i class="glyphicon glyphicon-list-alt"></i> &nbsp; <span class="hidden-xs"> SOCIAL </span></a>
                     </li>
                     <li>
                         <a href="#" data-toggle="modal" data-target=".modal-search" class="search"><i class="glyphicon glyphicon-search"></i></a>
                     </li>
                 </ul>
             </nav>
-            <nav class="nav-left">
+                        <nav class="nav-left">
                 <ul>
                     <li>
-                        <a href="index.html" data-rel="home"><i class="icon-home"></i></a>
+                        <a href="index.php" data-rel="Home"><i class="icon-home"></i></a>
                     </li>
                     <li>
-                        <a href="about.html" data-rel="About"><i class="li_user"></i></a>
+                        <a href="" data-rel="Settings"><i class="li_user"></i></a>
                     </li>
                     <li>
-                        <a href="Services-2.html" data-rel="Services"><i class="li_paperplane"></i></a>
+                        <a href="" data-rel="Discover"><i class="li_paperplane"></i></a>
                     </li>
                     <li>
-                        <a href="portfolio.html" data-rel="Portfolio"><i class="li_photo"></i></a>
-                    </li>
-                    <li class="active">
-                        <a href="blog.html" data-rel="Blog"><i class="li_pen"></i></a>
+                        <a href="" data-rel="Chat"><i class="li_bubble"></i></a>
                     </li>
                     <li>
-                        <a href="contact.html" data-rel="Contact"><i class="li_location"></i></a>
+                        <a href="" data-rel="Upload"><i class="li_stack"></i></a>
+                    </li>
+                    <li>
+                        <a href="" data-rel="Trending"><i class="li_video"></i></a>
                     </li>
                 </ul>
             </nav>
         </section>
         <section class="wrapper">
-            <section class="section body full background-normal" data-background='images/DeathtoStock_Wired3.jpg' >
+            <section class="section body full background-normal" data-background='images/RAIN.jpg' >
                 <div class='bg-wrapper'></div>
                 <div class='body front around-white'>
                     <div class="row">
                         <div class="col-lg-4">
-                            <h1 class="text-upper">THE ARTICLE SHEEP AND WOLF</h1>
+                            <h1 class="text-upper">The anime name</h1>
                             
-                            <p class="text-spacing">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+                            <p class="text-spacing">Description</p>
                             
-                            <a href="single-post.html" class="btn-ba5nanas-modal inline" data-prefix="&#xe01c;"> READ MORE </a>
+                            <a href="" class="btn-Suko-modal inline" data-prefix="&#xe01c;"> Start </a>
                         </div>
                     </div>
                 </div>
@@ -224,7 +214,7 @@
                         <div class="blog-full bg-black around-white">
                             <div class="col-lg-8">
                                 <div class="left">
-                                    <h1 class="text-upper text-spacing-small blog-title">BLOG</h1>
+                                    <h1 class="text-upper text-spacing-small blog-title">Episodes</h1>
                                 </div>
                             </div>
                             <div class="right icon-title-blog">
@@ -239,57 +229,57 @@
                         <img src="images/Pictures/p1.jpg" alt="image">
                         <div class="blog-message">
                             <div class="col-md-4">
-                                <a href="#"><h1 class="text-upper text-spacing-small">Welcome to our blog</h1></a>
+                                <a href="#"><h1 class="text-upper text-spacing-small">Episode</h1></a>
                             </div>
                             <div class="col-md-8">
-                                <p class="text-spacing-small">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur diam nunc, tempor sit amet nisl id, adipiscing congue ipsum. Sed aliquam leo quis eros condimentum, non placerat turpis gravida. Suspendisse nisi lectus, pretium vitae lectus sit amet, </p>
+                                <p class="text-spacing-small">Description </p>
                                 <hr>
                                 <footer>
-                                    <a href="#" class="btn btn-ba5nanas-blog"><i class="fa fa-arrow-right"></i> &nbsp; READMORE  </a> 
+                                    <a href="#" class="btn btn-Suko-blog"><i class="fa fa-arrow-right"></i> &nbsp; Watch  </a> 
                                     <div class="visible-xs clearfix block"></div>
-                                    <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_calendar text-medium"></i></a> 23 JAN 2014 
+                                    <a href="#" class="btn btn-Suko-blog"><i class=" li_calendar text-medium"></i></a> 23 JAN 2014 (date model) 
                                     <div class="visible-xs clearfix block"></div>
-                                    <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_user text-medium"></i></a> Nes
+                                    <a href="#" class="btn btn-Suko-blog"><i class=" li_user text-medium"></i></a> User
                                 </footer>
                             </div>
                         </div>
                     </article>
 
                     <article class="blog-full row box-spacing-blog bg-black around-white">
-                        <img src="images/Pictures/p2.jpg" alt="image">
+                        <img src="images/Pictures/p1.jpg" alt="image">
                         <div class="blog-message">
                             <div class="col-lg-4">
-                                <a href="#"><h1 class="text-upper text-spacing-small">RAIN VERSUS MATERIAL</h1></a>
+                                <a href="#"><h1 class="text-upper text-spacing-small">Episode</h1></a>
                             </div>
                             <div class="col-lg-8">
-                                <p class="text-spacing-small">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur diam nunc, tempor sit amet nisl id, adipiscing congue ipsum. Sed aliquam leo quis eros condimentum, non placerat turpis gravida. Suspendisse nisi lectus, pretium vitae lectus sit amet, </p>
+                                <p class="text-spacing-small">Description</p>
                                 <hr>
                                 <footer>
-                                    <a href="#" class="btn btn-ba5nanas-blog"><i class="fa fa-arrow-right"></i> &nbsp; READMORE  </a> 
+                                    <a href="#" class="btn btn-Suko-blog"><i class="fa fa-arrow-right"></i> &nbsp; Watch  </a> 
                                     <div class="visible-xs clearfix block"></div>
-                                    <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_calendar text-medium"></i></a> 23 JAN 2014 
+                                    <a href="#" class="btn btn-Suko-blog"><i class=" li_calendar text-medium"></i></a> 23 JAN 2014 
                                     <div class="visible-xs clearfix block"></div>
-                                    <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_user text-medium"></i></a> Nes
+                                    <a href="#" class="btn btn-Suko-blog"><i class=" li_user text-medium"></i></a> Lul
                                 </footer>
                             </div>
                         </div>
                     </article>
 
                     <article class="blog-full row box-spacing-blog bg-black around-white">
-                        <img src="images/Pictures/p3.jpg" alt="image">
+                        <img src="images/Pictures/p1.jpg" alt="image">
                         <div class="blog-message">
                             <div class="col-lg-4">
-                                <a href="#"><h1 class="text-upper text-spacing-small">LEO AND CAT</h1></a>
+                                <a href="#"><h1 class="text-upper text-spacing-small">Episode</h1></a>
                             </div>
                             <div class="col-lg-8">
-                                <p class="text-spacing-small">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur diam nunc, tempor sit amet nisl id, adipiscing congue ipsum. Sed aliquam leo quis eros condimentum, non placerat turpis gravida. Suspendisse nisi lectus, pretium vitae lectus sit amet, </p>
+                                <p class="text-spacing-small">Description </p>
                                 <hr>
                                 <footer>
-                                    <a href="#" class="btn btn-ba5nanas-blog"><i class="fa fa-arrow-right"></i> &nbsp; READMORE  </a> 
+                                    <a href="#" class="btn btn-Suko-blog"><i class="fa fa-arrow-right"></i> &nbsp; Watch  </a> 
                                     <div class="visible-xs clearfix block"></div>
-                                    <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_calendar text-medium"></i></a> 23 JAN 2014 
+                                    <a href="#" class="btn btn-Suko-blog"><i class=" li_calendar text-medium"></i></a> 27 MAR 2014 
                                     <div class="visible-xs clearfix block"></div>
-                                    <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_user text-medium"></i></a> Nes
+                                    <a href="#" class="btn btn-Suko-blog"><i class=" li_user text-medium"></i></a> Ned
                                 </footer>
                             </div>
                         </div>
@@ -297,20 +287,20 @@
 
 
                     <article class="blog-full row box-spacing-blog bg-black around-white">
-                        <img src="images/Pictures/p4.jpg" alt="image">
+                        <img src="images/Pictures/p1.jpg" alt="image">
                         <div class="blog-message">
                             <div class="col-lg-4">
-                                <a href="#"><h1 class="text-upper text-spacing-small">Mac Real Life</h1></a>
+                                <a href="#"><h1 class="text-upper text-spacing-small">Episode</h1></a>
                             </div>
                             <div class="col-lg-8">
-                                <p class="text-spacing-small">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur diam nunc, tempor sit amet nisl id, adipiscing congue ipsum. Sed aliquam leo quis eros condimentum, non placerat turpis gravida. Suspendisse nisi lectus, pretium vitae lectus sit amet, </p>
+                                <p class="text-spacing-small">Description </p>
                                 <hr>
                                 <footer>
-                                    <a href="#" class="btn btn-ba5nanas-blog"><i class="fa fa-arrow-right"></i> &nbsp; READMORE  </a> 
+                                    <a href="#" class="btn btn-Suko-blog"><i class="fa fa-arrow-right"></i> &nbsp; Watch  </a> 
                                     <div class="visible-xs clearfix block"></div>
-                                    <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_calendar text-medium"></i></a> 23 JAN 2014 
+                                    <a href="#" class="btn btn-Suko-blog"><i class=" li_calendar text-medium"></i></a> 30 Jun 2014 
                                     <div class="visible-xs clearfix block"></div>
-                                    <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_user text-medium"></i></a> Nes
+                                    <a href="#" class="btn btn-Suko-blog"><i class=" li_user text-medium"></i></a> Kate
                                 </footer>
                             </div>
                         </div>
@@ -335,7 +325,7 @@
             </section>
             <section id="footer" class="section-black">
                 <div class="around-white body small ">
-                    <p class="text-medium">Copyright &COPY; 2001 - 2014 Ba5nanas Inc. All Rights Reserved</p>
+                    <p class="text-medium">Copyright &COPY; Suko.Tv All Rights Reserved</p>
                 </div>
             </section>
 

@@ -49,7 +49,7 @@
                         </div>
                         <div class="row thumbnails hover-bg-color hover-around-white">
                             <div class="images">
-                                <img src="images/Pictures/thumb-p2.jpg" alt="image">
+                                <img src="images/Pictures/thumb-p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
                                 <p>RAIN OF THINK.</p>
@@ -58,16 +58,16 @@
                         </div>
                         <div class="row thumbnails hover-bg-color hover-around-white">
                             <div class="images">
-                                <img src="images/Pictures/p3.jpg" alt="image">
+                                <img src="images/Pictures/p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
-                                <p>LEO AND CAT.</p>
+                                <p>Suko AND CAT.</p>
                                 <small class="text-gray">March 6th 2013</small>
                             </div>
                         </div>
                         <div class="row thumbnails hover-bg-color hover-around-white">
                             <div class="images">
-                                <img src="images/Pictures/thumb-p4.jpg" alt="image">
+                                <img src="images/Pictures/thumb-p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
                                 <p>BROVEN.</p>
@@ -76,7 +76,7 @@
                         </div>
                         <div class="row thumbnails hover-bg-color hover-around-white">
                             <div class="images">
-                                <img src="images/Pictures/thumb-p5.jpg" alt="image">
+                                <img src="images/Pictures/thumb-p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
                                 <p>THE SIT UP.</p>
@@ -142,7 +142,7 @@
                     <section class='content'>
                         <input type='text' class='form-control' placeholder="&#xe009; &nbsp; : &nbsp; KEYWORDS">
                         <hr>
-                        <a href='#' class='btn-ba5nanas-modal' data-prefix='&#xe009;'>SEARCH</a>
+                        <a href='#' class='btn-Suko-modal' data-prefix='&#xe009;'>SEARCH</a>
                     </section>
                 </div>
             </div>
@@ -180,10 +180,10 @@
                 
                 <ul class="nav-user">
                     <li class="visible-xs">
-                        <a href="#" class="menu-open"><i class="fa fa-bars"></i> &nbsp; <span class="hidden-xs"> Widgets </span></a>
+                        <a href="#" class="menu-open"><i class="fa fa-bars"></i> &nbsp; <span class="hidden-xs"> SOCIAL </span></a>
                     </li>
                     <li>
-                        <a href="#" class="widget-open"><i class="glyphicon glyphicon-list-alt"></i> &nbsp; <span class="hidden-xs"> Widgets </span></a>
+                        <a href="#" class="widget-open"><i class="glyphicon glyphicon-list-alt"></i> &nbsp; <span class="hidden-xs"> SOCIAL </span></a>
                     </li>
                     <li>
                         <a href="#" data-toggle="modal" data-target=".modal-search" class="search"><i class="glyphicon glyphicon-search"></i></a>
@@ -299,7 +299,7 @@
                                 <hr>
                                 <textarea class="form-control description" placeholder="MESSAGES"></textarea>
                                 <hr>
-                                <a href="#" class="btn-ba5nanas-modal submit-contact" data-prefix="&#xe019;">SEND</a>
+                                <a href="#" class="btn-Suko-modal submit-contact" data-prefix="&#xe019;">SEND</a>
                             </form>
                         </div>
                     </div>

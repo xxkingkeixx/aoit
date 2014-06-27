@@ -582,7 +582,7 @@ select.form-control option {
     padding: 10px;
 }
 
-.btn-ba5nanas-modal {
+.btn-Suko-modal {
     padding: 15px;
     padding-left: 70px;
     position: relative;
@@ -601,7 +601,7 @@ select.form-control option {
     transition: all 0.6s ease;
 }
 
-.btn-ba5nanas-modal:before {
+.btn-Suko-modal:before {
     border-bottom: 10px solid transparent;
     border-right: 10px solid transparent;
     border-top: 10px solid transparent;
@@ -620,7 +620,7 @@ select.form-control option {
     transition: all 0.6s ease;
 }
 
-.btn-ba5nanas-modal:hover:before {
+.btn-Suko-modal:hover:before {
     border-bottom: 10px solid transparent;
     border-right: 10px solid transparent;
     border-top: 10px solid transparent;
@@ -633,7 +633,7 @@ select.form-control option {
     z-index: 5;
 }
 
-.btn-ba5nanas-modal:after {
+.btn-Suko-modal:after {
     content:attr(data-prefix);
     font-family: 'linecons','Open Sans', sans-serif;
     position: absolute;
@@ -861,7 +861,7 @@ Out Team
     -webkit-font-smoothing:antialiased;
 }
 
-.btn-ba5nanas-blog {
+.btn-Suko-blog {
     text-align: center;
     padding: 10px;
 
@@ -873,7 +873,7 @@ Out Team
     border-radius: 0;
 }
 
-a.btn-ba5nanas-blog:first-child {
+a.btn-Suko-blog:first-child {
     padding-left:0;
 }
 
@@ -1360,7 +1360,7 @@ iframe {
 
 
 /*============================*/
-/* Widget */
+/* widget */
 /*============================*/
 
 .widget {
@@ -2109,7 +2109,7 @@ iframe {
     height:100%;
 }
 
-.btn-ba5nanas-transparent {
+.btn-Suko-transparent {
     padding: 10px 20px;
 }
 

@@ -2,7 +2,7 @@ body{
 	display:none;
 }
 #jpreOverlay {
-	background-color: #fff;
+	background-color: #000;
 }
 #jpreSlide{
 	font-size:22px;
@@ -24,7 +24,7 @@ body{
 	-o-background-size:10px 10px;
 	margin-top: -15%;
 
-	background-color:#E07300;
+	background-color:#00FFFF;
 		
 	animation: progress 2s linear infinite;
 	-moz-animation: progress 2s linear infinite;

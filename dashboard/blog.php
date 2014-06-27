@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Leo</title>
+        <title>Suko</title>
 
         <!-- Bootstrap -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -43,43 +43,43 @@
                                 <img src="images/Pictures/p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
-                                <p>THE SIT UP.</p>
+                                <p>Featured</p>
                                 <small class="text-gray">March 6th 2013</small>
                             </div>
                         </div>
                         <div class="row thumbnails hover-bg-color hover-around-white">
                             <div class="images">
-                                <img src="images/Pictures/thumb-p2.jpg" alt="image">
+                                <img src="images/Pictures/thumb-p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
-                                <p>RAIN OF THINK.</p>
+                                <p>Featured</p>
                                 <small class="text-gray">March 6th 2013</small>
                             </div>
                         </div>
                         <div class="row thumbnails hover-bg-color hover-around-white">
                             <div class="images">
-                                <img src="images/Pictures/p3.jpg" alt="image">
+                                <img src="images/Pictures/p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
-                                <p>LEO AND CAT.</p>
+                                <p>Featured.</p>
                                 <small class="text-gray">March 6th 2013</small>
                             </div>
                         </div>
                         <div class="row thumbnails hover-bg-color hover-around-white">
                             <div class="images">
-                                <img src="images/Pictures/thumb-p4.jpg" alt="image">
+                                <img src="images/Pictures/thumb-p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
-                                <p>BROVEN.</p>
+                                <p>Featured</p>
                                 <small class="text-gray">March 6th 2013</small>
                             </div>
                         </div>
                         <div class="row thumbnails hover-bg-color hover-around-white">
                             <div class="images">
-                                <img src="images/Pictures/thumb-p5.jpg" alt="image">
+                                <img src="images/Pictures/thumb-p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
-                                <p>THE SIT UP.</p>
+                                <p>Featured</p>
                                 <small class="text-gray">March 6th 2013</small>
                             </div>
                         </div>
@@ -88,7 +88,7 @@
                                 <img src="images/Pictures/thumb-p6.jpg" alt="image">
                             </div>
                             <div class="label text-left">
-                                <p>THE SIT UP.</p>
+                                <p>Featured</p>
                                 <small class="text-gray">March 6th 2013</small>
                             </div>
                         </div>
@@ -109,22 +109,22 @@
                     </div>
                     <hr>
                     <div class="widget-content widget-tags">
-                        <a href="#" class="hover-bg-color hover-text-white">Amazing</a> / <a href="#" class="hover-bg-color hover-text-white">Envato</a> / <a href="#" class="hover-bg-color hover-text-white">Themes</a> / <a href="#" class="hover-bg-color hover-text-white">Clean</a> / <a href="#" class="hover-bg-color hover-text-white">Responsive</a> / <a href="#" class="hover-bg-color hover-text-white">Multipurpose</a> / 
-                        <a href="#" class="hover-bg-color hover-text-white">Creative</a> / <a href="#" class="hover-bg-color hover-text-white">Twitter</a> / <a href="#" class="hover-bg-color hover-text-white">Wordpress</a>
+                        <a href="#" class="hover-bg-color hover-text-white">Amazing</a> / <a href="#" class="hover-bg-color hover-text-white">Lul</a> / <a href="#" class="hover-bg-color hover-text-white">Great</a> / <a href="#" class="hover-bg-color hover-text-white">Clean</a> / <a href="#" class="hover-bg-color hover-text-white">So video</a> / <a href="#" class="hover-bg-color hover-text-white">So Social</a> / 
+                        <a href="#" class="hover-bg-color hover-text-white">So hip</a> / <a href="#" class="hover-bg-color hover-text-white">So design</a> / <a href="#" class="hover-bg-color hover-text-white">Rad</a>
                     </div>
                 </article>
             </section>
         </div>
 
         <!-- menu mobile -->
-        <div class="navigation-mobile bg-white hidden-item">
+        <div class="navigation-mobile bg-black hidden-item">
             <ul class="navigation-item">
-                <li><a href="index.html">HOME</a></li>
-                <li><a href="about.html">ABOUT</a></li>
-                <li><a href="services.html">SERVICES</a></li>
-                <li><a href="portfolio.html">PORTFOLIO</a></li>
-                <li><a href="blog.html">BLOG</a></li>
-                <li><a href="contact.html">CONTACT</a></li>
+                <li><a href="index.php">HOME</a></li>
+                <li><a href="">SETTINGS</a></li>
+                <li><a href="">DISCOVER</a></li>
+                <li><a href="">CHAT</a></li>
+                <li><a href="">UPLOAD</a></li>
+                <li><a href="">TRENDING</a></li>
             </ul>
             <!-- end content tab -->
         </div>
@@ -142,7 +142,7 @@
                     <section class='content'>
                         <input type='text' class='form-control' placeholder="&#xe009; &nbsp; : &nbsp; KEYWORDS">
                         <hr>
-                        <a href='#' class='btn-ba5nanas-modal' data-prefix='&#xe009;'>SEARCH</a>
+                        <a href='#' class='btn-Suko-modal' data-prefix='&#xe009;'>SEARCH</a>
                     </section>
                 </div>
             </div>
@@ -155,23 +155,13 @@
             </div>
 
             <nav class="nav-top">
-                <ul class="social hidden-xs">
-                    <li>
-                        <a href="#" class="facebook"><i class="icon-facebook"></i></a>
-                    </li>
-                    <li>
-                        <a href="#" class="twitter"><i class="icon-twitter"></i></a>
-                    </li>
-                    <li>
-                        <a href="#" class="google-plus"><i class="icon-google"></i></a>
-                    </li>
-                </ul>
+               
                 <ul class="nav-user">
                     <li class="visible-xs">
-                        <a href="#" class="menu-open"><i class="fa fa-bars"></i> &nbsp; <span class="hidden-xs"> Widgets </span></a>
+                        <a href="#" class="menu-open"><i class="fa fa-bars"></i> &nbsp; <span class="hidden-xs"> Friends </span></a>
                     </li>
                     <li>
-                        <a href="#" class="widget-open"><i class="glyphicon glyphicon-list-alt"></i> &nbsp; <span class="hidden-xs"> Widgets </span></a>
+                        <a href="#" class="widget-open"><i class="glyphicon glyphicon-list-alt"></i> &nbsp; <span class="hidden-xs"> Social </span></a>
                     </li>
                     <li>
                         <a href="#" data-toggle="modal" data-target=".modal-search" class="search"><i class="glyphicon glyphicon-search"></i></a>
@@ -181,37 +171,37 @@
             <nav class="nav-left">
                 <ul>
                     <li>
-                        <a href="index.html" data-rel="home"><i class="icon-home"></i></a>
+                        <a href="index.php" data-rel="Home"><i class="icon-home"></i></a>
                     </li>
                     <li>
-                        <a href="about.html" data-rel="About"><i class="li_user"></i></a>
+                        <a href="" data-rel="Settings"><i class="li_user"></i></a>
                     </li>
                     <li>
-                        <a href="Services-2.html" data-rel="Services"><i class="li_paperplane"></i></a>
+                        <a href="" data-rel="Discover"><i class="li_paperplane"></i></a>
                     </li>
                     <li>
-                        <a href="portfolio.html" data-rel="Portfolio"><i class="li_photo"></i></a>
-                    </li>
-                    <li class="active">
-                        <a href="blog.html" data-rel="Blog"><i class="li_pen"></i></a>
+                        <a href="" data-rel="Chat"><i class="li_bubble"></i></a>
                     </li>
                     <li>
-                        <a href="contact.html" data-rel="Contact"><i class="li_location"></i></a>
+                        <a href="" data-rel="Upload"><i class="li_stack"></i></a>
+                    </li>
+                    <li>
+                        <a href="" data-rel="Trending"><i class="li_video"></i></a>
                     </li>
                 </ul>
             </nav>
         </section>
         <section class="wrapper">
-            <section class="section body full background-normal" data-background='images/DeathtoStock_Wired3.jpg' >
+            <section class="section body full background-normal" data-background='images/RAIN.jpg' >
                 <div class='bg-wrapper'></div>
                 <div class='body front around-white'>
                     <div class="row">
                         <div class="col-lg-4">
-                            <h1 class="text-upper">THE ARTICLE SHEEP AND WOLF</h1>
+                            <h1 class="text-upper">Anime</h1>
 
-                            <p class="text-spacing">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+                            <p class="text-spacing">Description</p>
 
-                            <a href="single-post.html" class="btn-ba5nanas-modal inline" data-prefix="&#xe01c;"> READ MORE </a>
+                            <a href="" class="btn-Suko-modal inline" data-prefix="&#xe01c;"> Start </a>
                         </div>
                     </div>
                 </div>
@@ -222,7 +212,7 @@
                         <div class="blog-full bg-black">
                             <div class="col-lg-8">
                                 <div class="left">
-                                    <h1 class="text-upper text-spacing-small blog-title">BLOG</h1>
+                                    <h1 class="text-upper text-spacing-small blog-title">Episodes</h1>
                                 </div>
                             </div>
                             <div class="right icon-title-blog">
@@ -238,85 +228,85 @@
                             <img src="images/Pictures/p1.jpg" alt="image">
                         </div>
                         <div class="col-lg-7 col-sm-7">
-                            <a href="single-post.html"><h3 class="text-upper font-hard">Action Effect Smoke</h3></a>
+                            <a href=""><h3 class="text-upper font-hard">Episode</h3></a>
                             <div>
-                                <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_calendar text-medium"></i></a> 23 JAN 2014 
-                                <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_user text-medium"></i></a> Nes
-                                <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_pen text-medium"></i></a> Article
+                                <a href="#" class="btn btn-Suko-blog"><i class=" li_calendar text-medium"></i></a> 23 JAN 2014 
+                                <a href="#" class="btn btn-Suko-blog"><i class=" li_user text-medium"></i></a> Nes
+                                
                             </div>
-                            <p class="text-spacing-small">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur diam nunc, tempor sit amet nisl id, adipiscing congue ipsum. Sed aliquam leo quis eros condimentum, non placerat turpis gravida. </p>
+                            <p class="text-spacing-small">Description </p>
                             <footer class="left">
-                                <a href="single-post.html" class="btn-ba5nanas-transparent gray inline"> READMORE &nbsp; <i class="text-medium glyphicon glyphicon-arrow-right"></i></a> 
+                                <a href="" class="btn-Suko-transparent gray inline"> Watch &nbsp; <i class="text-medium glyphicon glyphicon-arrow-right"></i></a> 
                             </footer>
                         </div>
                     </article>
                     <article class="row box-spacing-blog">
                         <div class="col-lg-5 col-sm-5">
-                            <img src="images/Pictures/p2.jpg" alt="image">
+                            <img src="images/Pictures/p1.jpg" alt="image">
                         </div>
                         <div class="col-lg-7 col-sm-7">
-                            <a href="single-post.html"><h3 class="text-upper font-hard">Rain Versus Material</h3></a>
+                            <a href=""><h3 class="text-upper font-hard">Episode</h3></a>
                             <div>
-                                <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_calendar text-medium"></i></a> 23 JAN 2014 
-                                <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_user text-medium"></i></a> Nes
-                                <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_pen text-medium"></i></a> Article
+                                <a href="#" class="btn btn-Suko-blog"><i class=" li_calendar text-medium"></i></a> 23 JAN 2014 
+                                <a href="#" class="btn btn-Suko-blog"><i class=" li_user text-medium"></i></a> Nes
+                                
                             </div>
-                            <p class="text-spacing-small">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur diam nunc, tempor sit amet nisl id, adipiscing congue ipsum. Sed aliquam leo quis eros condimentum, non placerat turpis gravida. </p>
+                            <p class="text-spacing-small">Description </p>
                             <footer class="left">
-                                <a href="single-post.html" class="btn-ba5nanas-transparent gray inline"> READMORE &nbsp; <i class="text-medium glyphicon glyphicon-arrow-right"></i></a> 
+                                <a href="" class="btn-Suko-transparent gray inline"> Watch &nbsp; <i class="text-medium glyphicon glyphicon-arrow-right"></i></a> 
                             </footer>
                         </div>
                     </article>
                     <article class="row box-spacing-blog">
                         <div class="col-lg-5 col-sm-5">
-                            <img src="images/Pictures/p3.jpg" alt="image">
+                            <img src="images/Pictures/p1.jpg" alt="image">
                         </div>
                         <div class="col-lg-7 col-sm-7">
-                            <a href="single-post.html"><h3 class="text-upper font-hard">Leo and Cat</h3></a>
+                            <a href=""><h3 class="text-upper font-hard">Episode</h3></a>
                             <div>
-                                <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_calendar text-medium"></i></a> 23 JAN 2014 
-                                <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_user text-medium"></i></a> Nes
-                                <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_pen text-medium"></i></a> Article
+                                <a href="#" class="btn btn-Suko-blog"><i class=" li_calendar text-medium"></i></a> 23 JAN 2014 
+                                <a href="#" class="btn btn-Suko-blog"><i class=" li_user text-medium"></i></a> Nes
+                                
                             </div>
-                            <p class="text-spacing-small">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur diam nunc, tempor sit amet nisl id, adipiscing congue ipsum. Sed aliquam leo quis eros condimentum, non placerat turpis gravida. </p>
+                            <p class="text-spacing-small">Description </p>
                             <footer class="left">
-                                <a href="single-post.html" class="btn-ba5nanas-transparent gray inline"> READMORE &nbsp; <i class="text-medium glyphicon glyphicon-arrow-right"></i></a> 
-                            </footer>
-                        </div>
-
-                    </article>
-                    <article class="row box-spacing-blog">
-                        <div class="col-lg-5 col-sm-5">
-                            <img src="images/Pictures/p4.jpg" alt="image">
-                        </div>
-                        <div class="col-lg-7 col-sm-7">
-                            <a href="single-post-gallery.html"><h3 class="text-upper font-hard">Mac Real Life</h3></a>
-                            <div>
-                                <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_calendar text-medium"></i></a> 23 JAN 2014 
-                                <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_user text-medium"></i></a> Nes
-                                <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_photo text-medium"></i></a> Gallery   
-                            </div>
-                            <p class="text-spacing-small">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur diam nunc, tempor sit amet nisl id, adipiscing congue ipsum. Sed aliquam leo quis eros condimentum, non placerat turpis gravida. </p>
-                            <footer class="left">
-                                <a href="single-post-gallery.html" class="btn-ba5nanas-transparent gray inline"> READMORE &nbsp; <i class="text-medium glyphicon glyphicon-arrow-right"></i></a> 
+                                <a href="" class="btn-Suko-transparent gray inline"> Watch &nbsp; <i class="text-medium glyphicon glyphicon-arrow-right"></i></a> 
                             </footer>
                         </div>
 
                     </article>
                     <article class="row box-spacing-blog">
                         <div class="col-lg-5 col-sm-5">
-                            <img src="images/Pictures/p5.jpg" alt="image">
+                            <img src="images/Pictures/p1.jpg" alt="image">
                         </div>
                         <div class="col-lg-7 col-sm-7">
-                            <a href="single-post-video.html"><h3 class="text-upper font-hard">Video Player</h3></a>
+                            <a href="single-post-gallery.html"><h3 class="text-upper font-hard">Episode</h3></a>
                             <div>
-                                <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_calendar text-medium"></i></a> 23 JAN 2014 
-                                <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_user text-medium"></i></a> Nes
-                                <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_params text-medium"></i></a> Video   
+                                <a href="#" class="btn btn-Suko-blog"><i class=" li_calendar text-medium"></i></a> 23 JAN 2014 
+                                <a href="#" class="btn btn-Suko-blog"><i class=" li_user text-medium"></i></a> Nes
+                                   
                             </div>
-                            <p class="text-spacing-small">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur diam nunc, tempor sit amet nisl id, adipiscing congue ipsum. Sed aliquam leo quis eros condimentum, non placerat turpis gravida. </p>
+                            <p class="text-spacing-small">Description </p>
                             <footer class="left">
-                                <a href="single-post-video.html" class="btn-ba5nanas-transparent gray inline"> READMORE &nbsp; <i class="text-medium glyphicon glyphicon-arrow-right"></i></a> 
+                                <a href="single-post-gallery.html" class="btn-Suko-transparent gray inline"> Watch &nbsp; <i class="text-medium glyphicon glyphicon-arrow-right"></i></a> 
+                            </footer>
+                        </div>
+
+                    </article>
+                    <article class="row box-spacing-blog">
+                        <div class="col-lg-5 col-sm-5">
+                            <img src="images/Pictures/p1.jpg" alt="image">
+                        </div>
+                        <div class="col-lg-7 col-sm-7">
+                            <a href=""><h3 class="text-upper font-hard">Episode</h3></a>
+                            <div>
+                                <a href="#" class="btn btn-Suko-blog"><i class=" li_calendar text-medium"></i></a> 23 JAN 2014 
+                                <a href="#" class="btn btn-Suko-blog"><i class=" li_user text-medium"></i></a> Nes
+                                   
+                            </div>
+                            <p class="text-spacing-small">Description </p>
+                            <footer class="left">
+                                <a href="" class="btn-Suko-transparent gray inline"> Watch &nbsp; <i class="text-medium glyphicon glyphicon-arrow-right"></i></a> 
                             </footer>
                         </div>
                     </article>
@@ -325,15 +315,15 @@
                             <img src="images/Pictures/p6.jpg" alt="image">
                         </div>
                         <div class="col-lg-7 col-sm-7">
-                            <a href="single-post-video.html"><h3 class="text-upper font-hard">Video Player</h3></a>
+                            <a href=""><h3 class="text-upper font-hard">Episode</h3></a>
                             <div>
-                                <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_calendar text-medium"></i></a> 23 JAN 2014 
-                                <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_user text-medium"></i></a> Nes
-                                <a href="#" class="btn btn-ba5nanas-blog"><i class=" li_params text-medium"></i></a> Video   
+                                <a href="#" class="btn btn-Suko-blog"><i class=" li_calendar text-medium"></i></a> 23 JAN 2014 
+                                <a href="#" class="btn btn-Suko-blog"><i class=" li_user text-medium"></i></a> Nes
+                                  
                             </div>
-                            <p class="text-spacing-small">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur diam nunc, tempor sit amet nisl id, adipiscing congue ipsum. Sed aliquam leo quis eros condimentum, non placerat turpis gravida. </p>
+                            <p class="text-spacing-small">Description </p>
                             <footer class="left">
-                                <a href="single-post-video.html" class="btn-ba5nanas-transparent gray inline"> READMORE &nbsp; <i class="text-medium glyphicon glyphicon-arrow-right"></i></a> 
+                                <a href="" class="btn-Suko-transparent gray inline"> Watch &nbsp; <i class="text-medium glyphicon glyphicon-arrow-right"></i></a> 
                             </footer>
                         </div>
 
@@ -356,7 +346,7 @@
             </section>
             <section id="footer" class="section-black front-heigh relative">
                 <div class="around-white body small ">
-                    <p class="text-medium">Copyright &COPY; 2001 - 2014 Ba5nanas Inc. All Rights Reserved</p>
+                    <p class="text-medium">Copyright &COPY; Suko.Tv All Rights Reserved</p>
                 </div>
             </section>
         </section>

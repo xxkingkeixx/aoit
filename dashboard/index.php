@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -89,7 +90,7 @@
                         </div>
                         <div class="row thumbnails hover-bg-color hover-around-white">
                             <div class="images">
-                                <img src="images/Pictures/thumb-p2.jpg" alt="image">
+                                <img src="images/Pictures/thumb-p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
                                 <p>Featured</p>
@@ -98,7 +99,7 @@
                         </div>
                         <div class="row thumbnails hover-bg-color hover-around-white">
                             <div class="images">
-                                <img src="images/Pictures/p3.jpg" alt="image">
+                                <img src="images/Pictures/p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
                                 <p>Featured.</p>
@@ -107,7 +108,7 @@
                         </div>
                         <div class="row thumbnails hover-bg-color hover-around-white">
                             <div class="images">
-                                <img src="images/Pictures/thumb-p4.jpg" alt="image">
+                                <img src="images/Pictures/thumb-p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
                                 <p>Featured</p>
@@ -116,7 +117,7 @@
                         </div>
                         <div class="row thumbnails hover-bg-color hover-around-white">
                             <div class="images">
-                                <img src="images/Pictures/thumb-p5.jpg" alt="image">
+                                <img src="images/Pictures/thumb-p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
                                 <p>Featured</p>
@@ -160,11 +161,11 @@
         <div class="navigation-mobile bg-black hidden-item">
             <ul class="navigation-item">
                 <li><a href="index.php">HOME</a></li>
-                <li><a href="">ABOUT</a></li>
-                <li><a href="">SERVICES</a></li>
-                <li><a href="">PORTFOLIO</a></li>
-                <li><a href="">BLOG</a></li>
-                <li><a href="">CONTACT</a></li>
+                <li><a href="">SETTINGS</a></li>
+                <li><a href="">DISCOVER</a></li>
+                <li><a href="">CHAT</a></li>
+                <li><a href="">UPLOAD</a></li>
+                <li><a href="">TRENDING</a></li>
             </ul>
             <!-- end content tab -->
         </div>
@@ -182,7 +183,7 @@
                     <section class='content'>
                         <input type='text' class='form-control' placeholder="&#xe009; &nbsp; : &nbsp; KEYWORDS">
                         <hr>
-                        <a href='#' class='btn-ba5nanas-modal' data-prefix='&#xe009;'>SEARCH</a>
+                        <a href='#' class='btn-Suko-modal' data-prefix='&#xe009;'>SEARCH</a>
                     </section>
                 </div>
             </div>
@@ -271,7 +272,7 @@
                             <div class="absolute position-left position-top around-white">
                                 <h1 class="text-large font-hard"><span class="text-color " >Video</span> Editor.</h1>
                                 <p class="text-medium font-soft text-spacing-small">AMV <br> Reality Glitch</p>
-                                <a href="" data-toggle="modal" data-target=".modal-video-play" class="btn-ba5nanas-transparent text-medium-large play-animations inline "> <span> VIEW VIDEO </span> <i class="fa fa-play"></i> </a>
+                                <a href="" data-toggle="modal" data-target=".modal-video-play" class="btn-Suko-transparent text-medium-large play-animations inline "> <span> VIEW VIDEO </span> <i class="fa fa-play"></i> </a>
                             </div>
                         </div>
                     </div>
@@ -289,15 +290,15 @@
                                 <h1 class="text-extra-big font-hard"><span class="text-color " >Web Developer</span>. </h1>
 
                                 <p class="text-medium-large font-soft text-spacing-small"> </p>
-                                <a href="" class="btn-ba5nanas-transparent text-medium-large font-soft play-animations inline"> <span> Backend </span>  <span class="block text-smallest text-left"> Programmer </span> </a>
+                                <a href="" class="btn-Suko-transparent text-medium-large font-soft play-animations inline"> <span> Backend </span>  <span class="block text-smallest text-left"> Programmer </span> </a>
                                 &nbsp;
                                 <a href="" class="bg-color text-box text-medium-large hover-bg-black font-soft play-animations inline"> <span> Frontend </span>  <span class="block text-smallest text-left"> Developer </span> </a>
                             </div>
                             <div class="DivHelper"></div>
                         </div>
                     </article>
-                    <div class='control-youtube absolute top '>
-                        <div id="playerYoutube" class='playerYoutube-bg height-full' data-video_id='Iq8Goqp4Mfw' data-video_quality='default'></div> 
+                    <div class='control-youtube absolute top'>
+                        <div id="playerYoutube" class='playerYoutube-bg height-full' data-video_id='Iq8Goqp1Mfw' data-video_quality='default'></div> 
                     </div>
                 </div>
             </section>

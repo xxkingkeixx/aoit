@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Leo</title>
+        <title>Suko</title>
 
         <!-- Bootstrap -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -49,7 +49,7 @@
                         </div>
                         <div class="row thumbnails hover-bg-color hover-around-white">
                             <div class="images">
-                                <img src="images/Pictures/thumb-p2.jpg" alt="image">
+                                <img src="images/Pictures/thumb-p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
                                 <p>RAIN OF THINK.</p>
@@ -58,16 +58,16 @@
                         </div>
                         <div class="row thumbnails hover-bg-color hover-around-white">
                             <div class="images">
-                                <img src="images/Pictures/p3.jpg" alt="image">
+                                <img src="images/Pictures/p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
-                                <p>LEO AND CAT.</p>
+                                <p>Suko AND CAT.</p>
                                 <small class="text-gray">March 6th 2013</small>
                             </div>
                         </div>
                         <div class="row thumbnails hover-bg-color hover-around-white">
                             <div class="images">
-                                <img src="images/Pictures/thumb-p4.jpg" alt="image">
+                                <img src="images/Pictures/thumb-p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
                                 <p>BROVEN.</p>
@@ -76,7 +76,7 @@
                         </div>
                         <div class="row thumbnails hover-bg-color hover-around-white">
                             <div class="images">
-                                <img src="images/Pictures/thumb-p5.jpg" alt="image">
+                                <img src="images/Pictures/thumb-p1.jpg" alt="image">
                             </div>
                             <div class="label text-left">
                                 <p>THE SIT UP.</p>
@@ -142,7 +142,7 @@
                     <section class='content'>
                         <input type='text' class='form-control' placeholder="&#xe009; &nbsp; : &nbsp; KEYWORDS">
                         <hr>
-                        <a href='#' class='btn-ba5nanas-modal' data-prefix='&#xe009;'>SEARCH</a>
+                        <a href='#' class='btn-Suko-modal' data-prefix='&#xe009;'>SEARCH</a>
                     </section>
                 </div>
             </div>
@@ -168,10 +168,10 @@
                 </ul>
                 <ul class="nav-user">
                     <li class="visible-xs">
-                        <a href="#" class="menu-open"><i class="fa fa-bars"></i> &nbsp; <span class="hidden-xs"> Widgets </span></a>
+                        <a href="#" class="menu-open"><i class="fa fa-bars"></i> &nbsp; <span class="hidden-xs"> SOCIAL </span></a>
                     </li>
                     <li>
-                        <a href="#" class="widget-open"><i class="glyphicon glyphicon-list-alt"></i> &nbsp; <span class="hidden-xs"> Widgets </span></a>
+                        <a href="#" class="widget-open"><i class="glyphicon glyphicon-list-alt"></i> &nbsp; <span class="hidden-xs"> SOCIAL </span></a>
                     </li>
                     <li>
                         <a href="#" data-toggle="modal" data-target=".modal-search" class="search"><i class="glyphicon glyphicon-search"></i></a>
@@ -549,7 +549,7 @@
 
             <section id="footer" class="section-black front-heigh relative">
                 <div class="around-white body small ">
-                    <p class="text-medium">Copyright &COPY; 2001 - 2014 Ba5nanas Inc. All Rights Reserved</p>
+                    <p class="text-medium">Copyright &COPY; Suko.Tv All Rights Reserved</p>
                 </div>
             </section>
         </section>

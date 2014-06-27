@@ -199,45 +199,45 @@ body {
     border-radius: 50%;
 }
 
-.btn-ba5nanas-modal {
+.btn-Suko-modal {
     color:#ccc;
     background-color:#000000;
     -moz-box-shadow: 0px 0px 5px rgba(0,0,0,0.5);  -webkit-box-shadow: 0px 0px 5px rgba(0,0,0,0.5);  box-shadow: 0px 0px 5px rgba(0,0,0,0.5);
 }
 
-.btn-ba5nanas-modal:hover {
+.btn-Suko-modal:hover {
     color:#fff;
     padding-left: 80px;
 }
 
-.btn-ba5nanas-modal:after {
+.btn-Suko-modal:after {
     color:#fff;
     background:#00FFFF;
 }
 
-.btn-ba5nanas-modal:before , .btn-ba5nanas-modal:hover:before {
+.btn-Suko-modal:before , .btn-Suko-modal:hover:before {
     border-bottom: 10px solid transparent;
     border-right: 10px solid transparent;
     border-top: 10px solid transparent;
     border-left: 10px solid #00FFFF;
 }
 
-.btn-ba5nanas-transparent {
+.btn-Suko-transparent {
     border:3px solid #ECEEE1;
     color:#ECEEE1;
 }
 
-.dark.btn-ba5nanas-transparent {
+.dark.btn-Suko-transparent {
     border:3px solid #000000!important;
     color:#000000!important;
 }
 
-.gray.btn-ba5nanas-transparent {
+.gray.btn-Suko-transparent {
     border:3px solid #898989!important;
     color:#898989!important;
 }
 
-.btn-ba5nanas-transparent:hover {
+.btn-Suko-transparent:hover {
     border:3px solid #00FFFF!important;
     color:#00FFFF!important;
 }
@@ -363,11 +363,11 @@ h1,h2,h3,h4,h5,h6 , p {
     -moz-transform: scale(1.1);*/
 }
 
-.btn-ba5nanas-blog {
+.btn-Suko-blog {
     color:#898989;
 }
 
-.btn-ba5nanas-blog:hover {
+.btn-Suko-blog:hover {
     color:#00FFFF;
 }
 
